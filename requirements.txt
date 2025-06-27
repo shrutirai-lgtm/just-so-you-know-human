@@ -1,3 +1,4 @@
 requests
 streamlit
 python-dotenv
+streamlit-extras==0.6.0
